@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `login_register_pure_coding`
+-- Database: `home-safe`
 --
 
 -- --------------------------------------------------------
@@ -40,7 +40,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `email`, `password`) VALUES
-(8, 'Pure Coding', 'purecodingofficial@gmail.com', '0139a3c5cf42394be982e766c93f5ed0');
+(8, 'amid', 'amidgwapo@gmail.com', '0139a3c5cf42394be982e766c93f5ed0');
 
 --
 -- Indexes for dumped tables
